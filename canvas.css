@@ -1,7 +1,16 @@
+body {
+    background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
 .weather-btn {
     height: 40px;
     padding: 0 20px;
-    background: blue;
+    background: #2196f3;
     border: none;
     border-radius: 5px;
 }
@@ -10,5 +19,5 @@
     text-decoration: none;
     color: white;
     font-size: 18px;
-    background: blue;
+    background: #2196f3;
 } 
