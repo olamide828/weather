@@ -91,6 +91,12 @@ button:hover {
   margin: 5px 0;
 }
 
+.back-btn a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
 @media (max-width: 600px) {
   .weather-container {
     padding: 25px 20px;
